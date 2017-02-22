@@ -5,6 +5,7 @@ node_modules/
 jspm_packages
 build
 bower_components
+npm-debug.log
 
 npm-debug.log
 /benchpress-build/
@@ -23,7 +24,6 @@ angular.xcodeproj
 .agignore
 .lvimrc
 libpeerconnection.log
-npm-debug.log
 /tmp/
 /scripts/bower/bower-*
 .vscode
